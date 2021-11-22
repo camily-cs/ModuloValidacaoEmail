@@ -1,0 +1,15 @@
+{
+  "name": "camily-modulo0511verificaemail",
+  "version": "1.0.0",
+  "description": "Módulo utilizado para validação de email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Validar",
+    "email"
+  ],
+  "author": "Camily Cruz",
+  "license": "ISC"
+}
